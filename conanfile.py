@@ -4,7 +4,7 @@ class HelloConan(ConanFile):
     name = "hello"
     version = "0.1"
     author = "Jamie Westell jwestell@gmail.com"
-    url = ""
+    url = "None"
     license = "license"
     description = "Hello, World!"
     settings = "os", "compiler", "build_type", "arch"
